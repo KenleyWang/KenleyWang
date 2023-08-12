@@ -5,7 +5,7 @@
 
 欢迎来到我的Github页面! 本人是一名勤勤恳恳的程序员，没有996，更没有007!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/KenleyWang/KenleyWang/blob/main/img/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 关于我的喜好: 
