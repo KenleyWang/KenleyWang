@@ -3,21 +3,21 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KenleyWang)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+欢迎来到我的Github页面! 本人是一名勤勤恳恳的程序员，没有996，更没有007!  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### 🌱 关于我的喜好: 
+- 热爱Python和Golang，平时做些web开发
+- 对kubernetes云原生有额外的学习
+- 喜欢前端却没前端的天赋
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### :个人习惯:
+- 骑行上下班，低碳环保🍃
+- 坚持每天下班之后写至少两个小时的代码📚
+- 尼康的忠实粉丝，节假日会出去摄影拍照📷
+- 生活不能总是敲代码，敲累了就玩玩游戏，模拟生存的硬核玩家🎮
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -35,5 +35,5 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
 </p>
